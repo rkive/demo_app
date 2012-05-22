@@ -8,10 +8,10 @@ gem 'rails', '3.0.11'
 gem 'sqlite3-ruby', '1.2.5', :require => 'sqlite3'
 
 # Use unicorn as the web server
-# gem 'unicorn'
+gem 'unicorn'
 
 # Deploy with Capistrano
-# gem 'capistrano'
+gem 'capistrano'
 
 # To use debugger
 # gem 'ruby-debug'
